@@ -58,7 +58,8 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 <h3 align="center">🚀 My GitHub Highlights</h3>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanishkaShrivastava07&show_icons=true&theme=dracula&count_private=true&hide=prs,issues" height="180" alt="GitHub overview" />
+  <img src="https://media.giphy.com/media/YOUR_JAVA_GIF/giphy.gif" height="50" />
+  <img src="https://media.giphy.com/media/YOUR_JS_GIF/giphy.gif" height="50" />
 </div>
 
 
