@@ -5,13 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/kanishka-shrivastava" target="_blank">
+  <a href="https://www.linkedin.com/in/kanishka-shrivastava-496785336" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/KanishkaShr07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
@@ -19,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KanishkaShrivastava06.KanishkaShrivastava06&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KanishkaShrivastava07.KanishkaShrivastava07&"  />
 </div>
 
 ###
@@ -35,10 +32,9 @@
 <p align="left">
 I'm <strong>Kanishka Shrivastava</strong> from <strong>Bhopal, India 🇮🇳</strong>.<br><br>
 - 🔭 I’m currently working on <strong>Java-based software projects</strong>.<br>
-- 🌱 I’m currently learning <strong>Spring Boot, PostgreSQL, and JavaFX</strong>.<br>
-- 💡 Exploring <strong>AI integration</strong> and building <strong>terminal-based simulation games</strong>.<br>
-- ⚡ In my free time, I experiment with <strong>creative code ideas</strong> and refine my <strong>Java DSA skills</strong>.<br>
-- 🌿 Motto: <em>“Flawed but flourishing.”</em>
+- 🌱 I’m currently learning and exploring <strong>tech</strong>.<br>
+- ⚡ In my free time, I experiment with <strong>creative code ideas</strong> and refine my <strong>Java skills</strong>.<br>
+- 🌿 <em>“Flawed but flourishing.”</em>
 </p>
 
 ###
@@ -69,12 +65,12 @@ I'm <strong>Kanishka Shrivastava</strong> from <strong>Bhopal, India 🇮🇳</s
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🎮 Contribution Graph</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KanishkaShrivastava06&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph.svg">
+</picture>
