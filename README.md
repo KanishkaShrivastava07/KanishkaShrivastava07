@@ -55,14 +55,9 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 </div>
 
 ###
-<h3 align="center">🚀 My GitHub Highlights</h3>
+<h3 align="center">🚀 My GitHub Status</h3>
 
-  <div align="center">
-  <img src="https://media.giphy.com/media/YOUR_JAVA_GIF/giphy.gif" height="50" />
-  <img src="https://media.giphy.com/media/YOUR_JS_GIF/giphy.gif" height="50" />
-</div>
-
-
+  <img width="1024" height="1536" alt="github" src="https://github.com/user-attachments/assets/2868ee50-715f-4e83-af74-446653d0c5a5" />
 
 ###
 
