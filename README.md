@@ -56,8 +56,9 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 
 ###
 <h3 align="center">🚀 My GitHub Highlights</h3>
-<div align="center">
-  <img src="https://github.com/users/KanishkaShrivastava07/contributions?color=0077B5" height="150" alt="contributions calendar" />
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkaShrivastava07&show_icons=true&theme=dracula&count_private=true&hide=prs,issues" height="180" alt="GitHub overview" />
 </div>
 
 
