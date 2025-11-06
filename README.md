@@ -56,16 +56,13 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 
 ###
 
-<h3 align="center">🎮 Contribution Graph</h3>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KanishkaShrivastava07/KanishkaShrivastava07/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkaShrivastava07&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishkaShrivastava07&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
 </div>
 
 ###
