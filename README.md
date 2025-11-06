@@ -58,22 +58,6 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 <h3 align="center">🚀 My GitHub Highlights</h3>
 
 <div align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaShrivastava07&layout=compact&theme=dracula" height="150" alt="top languages" />
-  <img width="20" />
-
-  <!-- Pinned Portfolio -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaShrivastava07&repo=Portfolio&theme=dracula" height="150" alt="pinned repo" />
-
-</div>
-
-<div align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://github.com/users/KanishkaShrivastava07/contributions?color=0077B5" height="150" alt="contributions calendar" />
-</div>
-
-<div align="center">
   <!-- Fun Social Badges -->
   <img src="https://img.shields.io/github/followers/KanishkaShrivastava07?style=social" height="25" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/KanishkaShrivastava07?style=social" height="25" alt="GitHub stars" />
