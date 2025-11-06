@@ -55,7 +55,7 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 </div>
 
 ###
-<h3 align="center">🚀 My GitHub Status</h3>
+<h3 align="left">🚀 My GitHub Status</h3>
 
   <img src="https://github.com/user-attachments/assets/2868ee50-715f-4e83-af74-446653d0c5a5" alt="github" width="500" />
 
