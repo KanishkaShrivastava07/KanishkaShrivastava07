@@ -25,32 +25,22 @@
 
 ###
 
-<table>
-  <tr>
-    <!-- About Me -->
-    <td valign="top" width="50%">
-      <h3>👩‍💻 About Me</h3>
-      <p>
-        I'm <strong>Kanishka Shrivastava</strong> — a passionate person who loves building creative and efficient projects.<br>
-        I enjoy experimenting with new ideas, solving problems, and continuously improving through learning.<br><br>
-        ✨ Check out my portfolio → 
-        <a href="https://kanishkashrivastava07.github.io/Portfolio/" target="_blank">
-          <strong>kanishkashrivastava07.github.io/Portfolio</strong>
-        </a>
-      </p>
-    </td>
+<h3 align="left">👩‍💻 About Me</h3>
 
-    <!-- GitHub Status -->
-    <td valign="top" width="50%">
-      <h3>🚀 My GitHub Status</h3>
-      <img src="https://github.com/user-attachments/assets/2868ee50-715f-4e83-af74-446653d0c5a5" alt="github" width="300" />
-    </td>
-  </tr>
-</table>
+###
+
+<p align="left">
+I'm <strong>Kanishka Shrivastava</strong> — a passionate person who loves building creative and efficient projects.  
+I enjoy experimenting with new ideas, solving problems, and continuously improving through learning.  
+<br><br>
+✨ Check out my portfolio → <a href="https://kanishkashrivastava07.github.io/Portfolio/" target="_blank"><strong>kanishkashrivastava07.github.io/Portfolio</strong></a>
+</p>
 
 ###
 
 <h3 align="left">🛠 Languages and Tools</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -63,6 +53,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
+<h3 align="center">🚀 My GitHub Status</h3>
+
+  <img src="https://github.com/user-attachments/assets/2868ee50-715f-4e83-af74-446653d0c5a5" alt="github" width="500" />
+
 
 ###
 
