@@ -61,7 +61,7 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 
 ###
 
-<div align="center">
+<div align="left">
   <br>
   <em>Thanks for visiting my profile 💙</em><br>
   <strong>Keep coding, keep growing <33</strong>
