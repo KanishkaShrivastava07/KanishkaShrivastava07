@@ -56,12 +56,8 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 
 ###
 <h3 align="center">🚀 My GitHub Highlights</h3>
-
 <div align="center">
-  <!-- Fun Social Badges -->
-  <img src="https://img.shields.io/github/followers/KanishkaShrivastava07?style=social" height="25" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/KanishkaShrivastava07?style=social" height="25" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/KanishkaShrivastava07?style=social" height="25" alt="GitHub forks" />
+  <img src="https://github.com/users/KanishkaShrivastava07/contributions?color=0077B5" height="150" alt="contributions calendar" />
 </div>
 
 
