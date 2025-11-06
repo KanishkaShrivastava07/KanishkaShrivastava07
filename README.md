@@ -55,15 +55,18 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 </div>
 
 ###
-
 <h3 align="center">📊 My GitHub Stats</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkaShrivastava07&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=KanishkaShrivastava07&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
 </div>
+
+<!-- Pinned Repo Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkaShrivastava07&repo=Portfolio&theme=dracula" height="150" alt="pinned repo" />
+</div>
+
 
 ###
 
