@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Hey, you! 👋</h1>
+<h1 align="center">Hey, you!!!!!</h1>
 
 ###
 
@@ -65,5 +65,5 @@ I enjoy experimenting with new ideas, solving problems, and continuously improvi
 <div align="center">
   <br>
   <em>Thanks for visiting my profile 💙</em><br>
-  <strong>Keep coding, keep growing 🌿</strong>
+  <strong>Keep coding, keep growing <33</strong>
 </div>
