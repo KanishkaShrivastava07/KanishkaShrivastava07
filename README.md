@@ -30,10 +30,10 @@
 ###
 
 <p align="left">
-I'm <strong>Kanishka Shrivastava</strong> from <strong>Bhopal, India 🇮🇳</strong>.  
-A passionate Computer Science student who loves building creative and efficient software using Java and modern web technologies. I enjoy experimenting with new ideas, solving problems, and continuously improving through learning.  
+I'm <strong>Kanishka Shrivastava</strong> — a passionate person who loves building creative and efficient projects.  
+I enjoy experimenting with new ideas, solving problems, and continuously improving through learning.  
 <br><br>
-✨ Check out my portfolio → <a href="https://kanishkashrivastava07.github.io/Portfolio/" target="_blank"><strong>kanishkashrivastava07.github.io/Portfolio</strong></a>  
+✨ Check out my portfolio → <a href="https://kanishkashrivastava07.github.io/Portfolio/" target="_blank"><strong>kanishkashrivastava07.github.io/Portfolio</strong></a>
 </p>
 
 ###
